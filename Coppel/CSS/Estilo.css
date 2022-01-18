@@ -1,0 +1,141 @@
+header{
+      background-size: cover;
+      background-repeat: no-repeat;
+      margin: 0;
+
+	width: 100%; 
+	font-style: italic;
+
+	height: 20%;
+	position: absolute;
+
+    top: 0px;
+    left: 0px;
+}
+
+article{
+	height: 100%;
+	position: absolute;
+    top: 17%;
+    padding-top: 0%;
+    padding-left: 14px;
+    left: 6%;
+    width: 85%;
+}
+
+.nav1{
+	background-color: #265c48;
+	width: 100%;
+	position: absolute;
+	right: 0px;
+	top: 0%;
+	/* Botones */
+	text-align: center;
+}
+
+.nav2{
+	background-color: #ffdd2f;
+	width: 100%;
+	position: absolute;
+	right: 0px;
+	top: 7%;
+	text-align: center;
+
+    height: 10%;
+}
+
+
+.nav3{
+	width: 100%;
+	position: absolute;
+	right: 0px;
+	top: 18%;
+
+    border-bottom-width: 2px;
+    border-bottom-style: inset;
+    border-bottom-color: black;
+}
+
+.BtnNav1{
+    background-color: #ffdd2f;
+    text-align: center;
+    border: black;
+    padding: 0.3%;
+}
+
+.nav1Eslogan{
+    font-family: "Roboto";
+    font-size: inherit;
+}
+
+.BtnMenu{
+    border: unset;
+    background-color: unset;
+}
+.BtnMenuOferta{
+    border: unset;
+    background-color: unset;
+	color: red;
+}
+
+.NvTemp{
+    font-size: 200%;
+}
+
+.TituloMenu{
+    margin-left: 42%;
+}
+
+.NvTemp{
+	font-size: 200%;
+	margin-bottom: 0px;
+}
+
+.Descubre{
+    font-size: 125%;
+    margin-top: 0px;
+}
+
+.Colecciones{
+	background-color: #e6e6e6;
+    width: 19%;
+    font-family: "Roboto";
+
+    display: inline-block;
+}
+
+.ColeccionesMenu{
+	margin-bottom: 0px;
+}
+
+.ColeccionesSubM{
+    margin-top: 0px;
+    font-size: initial;
+}
+
+.ImagenColeccion{
+	padding-left: 1%;
+}
+.Contenido{
+	width: 100%;
+	height: 100%;
+    display: inline-block;
+    position: absolute;
+}
+.LogoCoppel{
+    position: absolute;
+    display: block;    
+    height: 118%;
+}
+.Buscar{
+
+    margin-top: 1%;
+    width: 25%;
+}
+
+.BtnMenu:hover{
+	color: blue;
+}
+.BtnMenuOferta:hover{
+	color: blue;
+}
